@@ -1,0 +1,80 @@
+/* header  */
+.logo {
+  max-width: 250px;
+  margin: auto auto auto 10%;
+  padding: 3%;
+}
+
+.hello-text {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+margin: auto auto auto 15%;
+padding-top: 3%;
+
+}
+
+.description {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+margin: auto auto auto 15%;
+}
+
+.header-text {
+
+}
+
+/* Carousel  */
+.carousel-inner {
+  height: 400px;
+}
+
+.carousel-item {
+
+}
+
+.car-img {
+
+}
+
+/* PORTFOLIO  */
+.hr-top {
+  border: 1px solid #0d4b6e;
+  margin-bottom: 8px;
+}
+
+.hr-bottom {
+  border: 3px solid #0d4b6e;
+  margin-top: 8px;
+  margin-bottom: 50px;
+}
+
+.portfolio {
+  text-align: center;
+  margin: 2% 10% 0 10%;
+}
+
+.img-heading {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+  margin-bottom: 0;
+}
+
+.link {
+  font-family: "libre+Baskerville:700";
+  color: #bb1f25;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  background-color: #3d3d3d;
+  color: #fff;
+  padding: 3%;
+  margin-top: 3%;
+}
+
+span {
+  text-decoration: underline;
+}
